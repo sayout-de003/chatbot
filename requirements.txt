@@ -1,0 +1,11 @@
+langchain
+transformers
+sentence-transformers
+faiss-cpu
+PyPDF2
+markdown
+docx2txt
+fastapi
+uvicorn
+pydantic
+pinecone
